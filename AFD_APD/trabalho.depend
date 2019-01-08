@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1494750960 source:c:\users\lucius-pc\desktop\trabalho\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1494738973 source:c:\users\lucius-pc\desktop\trab.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1495749460 source:c:\users\lucius-pc\desktop\trabalh\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<stack>
+	<windows.h>
+	<vector>
+	<locale.h>
+

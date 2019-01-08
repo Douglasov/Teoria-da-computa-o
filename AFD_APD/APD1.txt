@@ -1,0 +1,39 @@
+1 2 e
+* a b
+* B
+e 1 e
+e e e
+e e e
+e 1 2
+e e 2
+e e e
+* B *
+* * *
+* * *
+* B *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * B
+* * B
+* * *
+1
+2
+15
+a
+b
+abbb
+ab
+aabb
+aba
+abb
+bbaa
+abababababa
+abbba
+aaabbba
+aab
+bba
+baaa
+aaaabbbb

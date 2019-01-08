@@ -1,0 +1,17 @@
+1 2 3 4 5 e
+a b
+2 e
+3 e
+4 3
+5 3
+5 3
+e e
+1
+5
+6
+abaaa
+aaaba
+aaaab
+baaaa
+aaabaa
+aaaa
